@@ -1,0 +1,2 @@
+-- Download and install Telerik  for MVC 5 
+-- the dll of pdf are taken from Telerik 
